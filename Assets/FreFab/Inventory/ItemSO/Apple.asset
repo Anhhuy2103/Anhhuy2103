@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4fd9249c6138584cbb9c4d710e69e40, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <maxStackSize>k__BackingField: 1
+  <name>k__BackingField: Apple
+  <Description>k__BackingField: 'dont trust this apple.. I dont know..well
+
+    heal
+    your HP 1000%'
+  <itemImage>k__BackingField: {fileID: -1920718396, guid: 1eb40f85a33d1d44ba7f9d7b3e54de62, type: 3}

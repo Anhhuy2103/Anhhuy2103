@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 3de66b6274b0acd42bd80c0d47704673
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TheVotex1_0
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2574
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eafe5a2fd482574ca122138e6a720c1
+      internalID: 34535677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_1
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2574
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226e951e93a57e94ab6dcf32a652ad58
+      internalID: -1361133293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_2
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2574
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5665f779f7f8e5c4481e11e929a50aa4
+      internalID: 1464888904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_3
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2574
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc341088012df6418867fc31a2e5402
+      internalID: -1773311234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_4
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2574
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b315a3f66f8332a409384a35ca9cde53
+      internalID: -307050611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_5
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2574
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5182035e8f9109243a17c85c553eb44f
+      internalID: 253505451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_6
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2574
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326a7bbc576efa84f9ff7f32340995e7
+      internalID: 1904412882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2145
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1443da6aed4dad4c945f2a4032baddd
+      internalID: -159189035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2145
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5968e585986aaf40b352eab6dc0d90c
+      internalID: 1389300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_9
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2145
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a718e61e488940905ffe9a6f0eddf
+      internalID: 1096322357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_10
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2145
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22514236cd707a42ba4600efaa8ff58
+      internalID: -95842408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_11
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2145
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690db398e245e8444872b66f9bcffcb1
+      internalID: -1415094691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_12
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2145
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f099e301ba8501458a003da1eec648d
+      internalID: -1502616785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_13
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2145
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177a272e2eddbd04185e50c416e942f0
+      internalID: 1904775755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_14
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2145
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a03455504545342ad257e712001095
+      internalID: -966050817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_15
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2145
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f46c5cf0685dd74fb41d56386978437
+      internalID: 2028387622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1716
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c11f17f2f52f94aaff0233538094ed
+      internalID: 1555502110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1716
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd46b91a4f9fbe4449153d16c22e8b80
+      internalID: -1642425709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_18
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1716
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ffc1dfc1604ce4a9d40014bfb855bd
+      internalID: 35627789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_19
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1716
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e7471617d1a654385d3a716e420b75
+      internalID: 228659877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_20
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1716
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bbc138b581728458423fc2713b384b
+      internalID: 358836112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_21
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1716
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edf4ff524c65bf40bab6049f0777b1a
+      internalID: -1644260653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_22
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1716
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f867a8803a5c5f6488c42d7a83f8f81f
+      internalID: 394621040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_23
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1716
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2670fd7aa7f584b8e8a2488b3a429e
+      internalID: 1461054971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_24
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1716
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04045060de4f71e4e9c0fe12f6c7ff9a
+      internalID: -1220743164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1287
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa80799d7f863d147afb1610ea42cf9e
+      internalID: 413693417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_26
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1287
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a6123e07da876489308b074c5caf40
+      internalID: 2013887815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1287
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8291f28c99b0954aa769992925da4ae
+      internalID: 553508108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_28
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1287
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8053fab4d61ef48880bfe78fc8c00d
+      internalID: -1970592739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_29
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1287
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88877c61358680542bf9a0e115aa09a4
+      internalID: -1044520648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_30
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1287
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d26522a3a4cf042b4e16c3b5eb3137
+      internalID: 136877211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_31
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1287
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc624ef7863aa46a1dd7cdadd34a55
+      internalID: 204554299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_32
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1287
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03df62335df44be418394328d71e4f63
+      internalID: -1759953507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_33
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1287
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c6ee20be2589f48933cfc1f1b0cbb2
+      internalID: -1884939660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045cbb59778621c4ab4eca6a1001da27
+      internalID: -1556703556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_35
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 858
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dedd6bdd0101104da59c7f78d703428
+      internalID: 1587695584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_36
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 858
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa18f964a464144798c5f3d2b506225
+      internalID: -1698261057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_37
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 858
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5c85dca324a544a9e3fa22f5dcb306
+      internalID: -1071315506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_38
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 858
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb142fe396c70f4eada6dc51ff5fd6c
+      internalID: -2026675245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_39
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 858
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b2ee5d3ab667541ab895f9d10fe3f8
+      internalID: -1464819472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_40
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 858
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26b4eb9024e491459b390b93d911139
+      internalID: 167566989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_41
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 858
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fd5df9796abcc48b21a4a7915a2298
+      internalID: -1144125581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_42
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 858
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961dd06e11f1e934fa22667822b509b4
+      internalID: -881341123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc857b6f1bc0e24082978f89751c990
+      internalID: 513177256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_44
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 429
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e55c17624ed0947a3004cbb7b4b5ea
+      internalID: -360900490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheVotex1_45
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 429
+        width: 429
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2215aa20c62d544429e627de4bc03b57
+      internalID: -576688792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TheVotex1_0: 34535677
+      TheVotex1_1: -1361133293
+      TheVotex1_10: -95842408
+      TheVotex1_11: -1415094691
+      TheVotex1_12: -1502616785
+      TheVotex1_13: 1904775755
+      TheVotex1_14: -966050817
+      TheVotex1_15: 2028387622
+      TheVotex1_16: 1555502110
+      TheVotex1_17: -1642425709
+      TheVotex1_18: 35627789
+      TheVotex1_19: 228659877
+      TheVotex1_2: 1464888904
+      TheVotex1_20: 358836112
+      TheVotex1_21: -1644260653
+      TheVotex1_22: 394621040
+      TheVotex1_23: 1461054971
+      TheVotex1_24: -1220743164
+      TheVotex1_25: 413693417
+      TheVotex1_26: 2013887815
+      TheVotex1_27: 553508108
+      TheVotex1_28: -1970592739
+      TheVotex1_29: -1044520648
+      TheVotex1_3: -1773311234
+      TheVotex1_30: 136877211
+      TheVotex1_31: 204554299
+      TheVotex1_32: -1759953507
+      TheVotex1_33: -1884939660
+      TheVotex1_34: -1556703556
+      TheVotex1_35: 1587695584
+      TheVotex1_36: -1698261057
+      TheVotex1_37: -1071315506
+      TheVotex1_38: -2026675245
+      TheVotex1_39: -1464819472
+      TheVotex1_4: -307050611
+      TheVotex1_40: 167566989
+      TheVotex1_41: -1144125581
+      TheVotex1_42: -881341123
+      TheVotex1_43: 513177256
+      TheVotex1_44: -360900490
+      TheVotex1_45: -576688792
+      TheVotex1_5: 253505451
+      TheVotex1_6: 1904412882
+      TheVotex1_7: -159189035
+      TheVotex1_8: 1389300336
+      TheVotex1_9: 1096322357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
